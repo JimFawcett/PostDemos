@@ -1,1 +1,0 @@
-searchState.loadedDescShard("closure_demo", 0, "")

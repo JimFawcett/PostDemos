@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["cl_demo","main","show_type"]};
